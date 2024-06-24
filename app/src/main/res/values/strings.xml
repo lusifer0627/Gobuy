@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">demo2</string>
+    <string-array name="array1">
+        <item>台灣</item>
+        <item>美國</item>
+        <item>英國</item>
+        <item>日本</item>
+    </string-array>
+    <string-array name="array2">
+        <item>繁體中文</item>
+        <item>英文</item>
+        <item>日文</item>
+    </string-array>
+    <string-array name="array3">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+    </string-array>
+</resources>
